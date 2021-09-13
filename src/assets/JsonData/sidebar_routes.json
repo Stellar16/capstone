@@ -1,0 +1,58 @@
+[
+    {
+        "display_name": "Dashboard",
+        "route": "/",
+        "icon": "bx bx-category-alt"
+    },
+    
+    {
+        "display_name": "Content Management",
+        "route": "/ContentManagement",
+        "icon": "bx bx-user-pin"
+    },
+    {
+        "display_name": "Post",
+        "route": "/Post",
+        "icon": "bx bx-list-ol"
+    },
+    {
+        "display_name": "User Management",
+        "route": "/UserManagement",
+        "icon": "bx bx-package"
+    },
+    {
+        "display_name": "Logs",
+        "route": "/Logs",
+        "icon": "bx bx-list-ol"
+    },
+    {
+        "display_name": "New Users",
+        "route": "/categories",
+        "icon": "bx bx-list-ol"
+    },
+    {
+        "display_name": "Users Registered Online",
+        "route": "/categories",
+        "icon": "bx bx-list-ol"
+    },
+    {
+        "display_name": "E-Dalaw",
+        "route": "/orders",
+        "icon": "bx bx-camera"
+    },
+    {
+        "display_name": "Report Management",
+        "route": "/analytics",
+        "icon": "bx bx-bar-chart-alt"
+    },
+    {
+        "display_name": "Message",
+        "route": "/categories",
+        "icon": "bx bx-message"
+    },
+    {
+        "display_name": "Settings",
+        "route": "/discount",
+        "icon": "bx bx-cog"
+    }
+]
